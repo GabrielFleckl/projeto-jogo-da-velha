@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Jogo da velha desenvolvido durante o curso de javaScript para fins de prática e estudo, contendo 2 modos de jogo e sua responsividade para celulares. 
+Jogo da velha desenvolvido durante o curso de javaScript para fins de prática e estudo, contendo 2 modos de jogo e scripts de autenticação de jogadas. 
 
 ## 📝 Licença
 
