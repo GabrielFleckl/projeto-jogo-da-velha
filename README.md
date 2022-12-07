@@ -18,7 +18,7 @@
 
 Aqui você pode conferir o layout em suas respectivas versões. <br>
 
-[👉 Link para visualizar a pagina inteira](https://projeto-jogo-da-velha-gabrielfleckl.vercel.app/)
+[🕹️ Link para jogar ](https://projeto-jogo-da-velha-gabrielfleckl.vercel.app/)
 
 ### Versão Web 🖥️
 
@@ -53,5 +53,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Gabriel Gonçalves 🖖 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#--barbearia-alura-">Voltar para o Inicio ⬆️ </a>
+Feito com ♥ by Gabriel Gonçalves 🖖 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="#--jogo-da-velha-">Voltar para o Inicio ⬆️ </a>
  
